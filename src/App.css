@@ -1,0 +1,62 @@
+/* App.css */
+
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  font-family: 'Arial', sans-serif;
+  margin-top: 1em;
+}
+.uno{
+  margin-bottom: 2em;
+  text-align: center;
+}
+.weather-container {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.forecast-container {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.input-group {
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.w-75{
+  margin: auto !important;
+}
+.card-img-top {
+  max-height: 100px;
+  object-fit: contain;
+}
+
+.card-body {
+  padding: 15px;
+}
+
+/* Add more styles as needed */
